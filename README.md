@@ -124,7 +124,7 @@ Our codebase is built on top of the HuggingFace [Diffusers](https://github.com/h
 ## ✏️ Citation
 If you think this project is helpful, please feel free to leave a star⭐️ and cite our paper:
 
-```bash
+```bibtex
 @InProceedings{Marjit_2025_WACV,
     author    = {Marjit, Shyam and Singh, Harshit and Mathur, Nityanand and Paul, Sayak and Yu, Chia-Mu and Chen, Pin-Yu},
     title     = {DiffuseKronA: A Parameter Efficient Fine-Tuning Method for Personalized Diffusion Models},
