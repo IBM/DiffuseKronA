@@ -26,7 +26,7 @@ the advantages of the proposed method.
 1. Create conda environment
 ```
 conda create -y -n diffusekrona python=3.11
-conda activate diffusekrona
+conda activate diffusekrona 
 ```
 
 2. Package installation
